@@ -65,3 +65,35 @@ button {
     font-weight: 500;
     font-size: 18px;
 }
+
+.info-header {
+    text-align: center;
+    color: #1f2937;
+    font-weight: 900;
+    font-size: 36px;
+    padding: 8px;
+}
+
+.card-container {
+    display: flex;
+    padding: 8px 200px;
+    justify-content: space-between;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.card-image {
+    border: 5px solid #3882f6;
+    border-radius: 16px;
+    width: 250px;
+    height: 250px;
+}
+
+.card-text {
+    text-align: center;
+    max-width: 250px;
+}
