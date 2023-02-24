@@ -36,7 +36,7 @@ a {
 .content {
     display: flex;
     background-color: #1f2937;
-    padding: 64px 128px;
+    padding: 128px 128px;
     justify-content: space-between;
     gap: 64px;
 }
